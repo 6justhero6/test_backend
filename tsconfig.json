@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "outDir": "build",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
